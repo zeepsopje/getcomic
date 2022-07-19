@@ -1,5 +1,5 @@
 # getcomic
-Simple way to download comics from [readcomicsonline.ru](https://readcomicsonline.ru).
+Simple tool to download comics from [readcomicsonline.ru](https://readcomicsonline.ru).
 
 # Usage
 1. Clone repo
